@@ -11,10 +11,9 @@
 - Azure (Learning)
 
 ## 📊 Projects
-- Sales Dashboard (Excel)
-- SQL Data Analysis Project
-- Power BI Dashboard
+- Weather Forecasting -Power BI, DAX, Power Query
+- New Zealand Export Data -Power BI, Dax, Power Query, MYSQL 
 
 ## 📫 Contact Me
-- LinkedIn: (add link)
-- Email: (add email)
+- LinkedIn: https://www.linkedin.com/feed/ 
+- Email: bhushankothe5@gmail.com
