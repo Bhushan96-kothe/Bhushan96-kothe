@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋, I'm Bhushan Kothe
 
-<!--
-**Bhushan96-kothe/Bhushan96-kothe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Data Analyst | Aspiring Azure Data Engineer  
+📍 Nagpur, India  
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- SQL
+- Excel
+- Power BI
+- Python (Basics)
+- Azure (Learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Projects
+- Sales Dashboard (Excel)
+- SQL Data Analysis Project
+- Power BI Dashboard
+
+## 📫 Contact Me
+- LinkedIn: (add link)
+- Email: (add email)
